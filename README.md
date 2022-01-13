@@ -1,3 +1,5 @@
+Add impala implementation for dynamic datasource
+
 # druid
 
 [![Build Status](https://travis-ci.org/alibaba/druid.svg?branch=master)](https://travis-ci.org/alibaba/druid)
